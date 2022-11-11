@@ -10,6 +10,9 @@ In this task we get a somon and diram and quatity and our how it  will be
 # Taski 4
 In this task we get hour and minute and second and one more this and minus them and we get a second
 
+# Taski 5
+In this task we get one int and we must to test it is this number  1 reverse and test is this  int equal to fist
+
 # Taski 6
 In this task we get three intigers and we get how many of them is bigger than 0
 

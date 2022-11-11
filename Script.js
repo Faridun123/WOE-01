@@ -46,17 +46,17 @@
 
 
 // Taski 5
-let a=prompt("Enter your h");//1 2 3 4  2002
-digits0= Math.floor(a/1000);// 1
-digits2= Math.floor( a%1000/100);// 2
-digits3=  Math.floor( a%100/10);// 3
-digits4=Math.floor( a%10); // 4
-if(digits0==digits4 && digits2==digits3){
-    console.log("Yes")
-}
-else {
-    console.log("No")
-}
+// let a=prompt("Enter your h");//1 2 3 4  2002
+// digits0= Math.floor(a/1000);// 1
+// digits2= Math.floor( a%1000/100);// 2
+// digits3=  Math.floor( a%100/10);// 3
+// digits4=Math.floor( a%10); // 4
+// if(digits0==digits4 && digits2==digits3){
+//     console.log("Yes")
+// }
+// else {
+//     console.log("No")
+// }
 
 
 
